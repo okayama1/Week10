@@ -15,3 +15,9 @@ library(dplyr)
 
 
 # Introduction
+
+# Data
+# Methods
+# Results
+# Discussion
+# References
