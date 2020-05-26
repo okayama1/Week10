@@ -3,4 +3,10 @@
 
 # Ada Library Information
 *.ali
-.Rproj.user
+
+# logs
+*.log
+
+# Machine files
+.DS_Store
+
